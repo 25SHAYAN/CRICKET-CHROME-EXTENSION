@@ -1,0 +1,22 @@
+body{
+    min-width: 300px;
+    background-color: #e4eeed;
+   
+}
+p{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: x-large;
+   font-weight: 500;
+   color: rgb(255, 60, 0);
+}
+
+ul>li{
+    list-style-type:disc;
+    color:blue;
+}
+ul>li:hover{
+    transition: 3s;
+    color: rgb(240, 14, 248);
+}

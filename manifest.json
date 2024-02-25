@@ -1,0 +1,12 @@
+{
+    "name":"My Chrome Extension",
+    "description":"Best Chrome Extension",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "author":"Nagashayan K",
+    "action":{
+      "default_popup":"index.html",
+      "default_title":"My Chrome Extension"
+    }
+
+}
